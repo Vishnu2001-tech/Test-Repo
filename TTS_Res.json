@@ -1,0 +1,88 @@
+{
+    "results": [
+        {
+            "accommodationId": 38444,
+            "ediCode": "B40DFABE-21F7-48E2-BF50-CCABBABB4A2F",
+            "providerCode": "OT",
+            "roomDescription": "Room Superior",
+            "roomView": "",
+            "roomId": "RMSP00SVB0",
+            "timeStamp": "2020-08-24T08:16:56.751Z",
+            "total": 446.46,
+            "gdsId": 5,
+            "hotelId": "AMTSMT22FM",
+            "bbId": 6,
+            "currency": null
+        },
+        {
+            "accommodationId": 38444,
+            "ediCode": "B40DFABE-21F7-48E2-BF50-CCABBABB4A2F",
+            "providerCode": "OT",
+            "roomDescription": "Room Standard",
+            "roomView": "",
+            "roomId": "RMSD0000B0",
+            "timeStamp": "2020-08-24T08:16:34.743Z",
+            "total": 348.7,
+            "gdsId": 5,
+            "hotelId": "AMTSMT22FM",
+            "bbId": 6,
+            "currency": null
+        },
+        {
+            "accommodationId": 38444,
+            "ediCode": "B40DFABE-21F7-48E2-BF50-CCABBABB4A2F",
+            "providerCode": "OT",
+            "roomDescription": "Room Superior",
+            "roomView": "",
+            "roomId": "RMSP00SVB0",
+            "timeStamp": "2020-08-24T08:16:57.051Z",
+            "total": 277,
+            "gdsId": 5,
+            "hotelId": "AMTSMT22FM",
+            "bbId": 3,
+            "currency": null
+        },
+        {
+            "accommodationId": 38444,
+            "ediCode": "B40DFABE-21F7-48E2-BF50-CCABBABB4A2F",
+            "providerCode": "OT",
+            "roomDescription": "Room Superior",
+            "roomView": "",
+            "roomId": "RMSP00SVB0",
+            "timeStamp": "2020-08-24T08:16:57.294Z",
+            "total": 358.48,
+            "gdsId": 5,
+            "hotelId": "AMTSMT22FM",
+            "bbId": 4,
+            "currency": null
+        },
+        {
+            "accommodationId": 38444,
+            "ediCode": "B40DFABE-21F7-48E2-BF50-CCABBABB4A2F",
+            "providerCode": "OT",
+            "roomDescription": "Room Standard",
+            "roomView": "",
+            "roomId": "RMSD0000B0",
+            "timeStamp": "2020-08-24T08:16:35.010Z",
+            "total": 179.24,
+            "gdsId": 5,
+            "hotelId": "AMTSMT22FM",
+            "bbId": 3,
+            "currency": null
+        },
+        {
+            "accommodationId": 38444,
+            "ediCode": "B40DFABE-21F7-48E2-BF50-CCABBABB4A2F",
+            "providerCode": "OT",
+            "roomDescription": "Room Standard",
+            "roomView": "",
+            "roomId": "RMSD0000B0",
+            "timeStamp": "2020-08-24T08:16:35.325Z",
+            "total": 260.71,
+            "gdsId": 5,
+            "hotelId": "AMTSMT22FM",
+            "bbId": 4,
+            "currency": null
+        }
+    ]
+}
